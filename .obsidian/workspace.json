@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2369fa2b708398a",
+            "id": "1db45a0fdf722aff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos bandit/Level 29 al 30.md",
+                "file": "Retos Web/Client-side-again.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos bandit/Level 29 al 30.md",
+                "file": "Retos Web/Client-side-again.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos bandit/Level 29 al 30.md",
+                "file": "Retos Web/Client-side-again.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos bandit/Level 29 al 30.md"
+                "file": "Retos Web/Client-side-again.md"
               }
             }
           }
@@ -147,10 +147,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2369fa2b708398a",
+  "active": "b847de037027190b",
   "lastOpenFiles": [
-    "Retos bandit/Level 28 al 29.md",
+    "Retos Web/where are the robots.md",
+    "Retos Web/picobrowser.md",
+    "Retos Web/logon.md",
+    "Retos Web/Insp3ct0r.md",
+    "Retos Web/Client-side-again.md",
+    "Retos Web/dont-use-client-side.md",
+    "Retos Web/plantilla.md",
     "Retos bandit/Level 29 al 30.md",
+    "Retos Web",
+    "Untitled",
+    "Retos bandit/Level 28 al 29.md",
     "Retos bandit/Level 30 al 31.md",
     "Retos bandit/Level 31 al 32.md",
     "Retos bandit/Level 32 al 33.md",
@@ -168,17 +177,10 @@
     "Retos bandit/Level 3 al 4.md",
     "primer_parcial/2019/04 - what's a net cat.md",
     "primer_parcial/2019/plantilla.md",
-    "primer_parcial/2019/05 - strings it.md",
-    "primer_parcial/2019/03 - 2War.md",
-    "primer_parcial/2019/02 - Warmed Up.md",
-    "primer_parcial/2019/01 - Lets Warm Up.md",
     "primer_parcial/2021",
     "primer_parcial/2020",
     "primer_parcial/2019",
     "primer_parcial",
-    "Retos bandit/Untitled",
-    "Retos bandit/Level 1 al 2.md",
-    "Retos bandit/Level 4 al 5.md",
-    "Retos bandit/Level 19 al 20.md"
+    "Retos bandit/Untitled"
   ]
 }
